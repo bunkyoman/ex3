@@ -2,7 +2,6 @@ package org.zerock.ex3.web.dto;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
-import lombok.Setter;
 
 @Getter
 @RequiredArgsConstructor
